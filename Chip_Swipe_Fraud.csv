@@ -1,0 +1,7 @@
+usechip,isfraud,fraud_count
+Chip Transaction,No,6282762
+Online Transaction,No,2694871
+Swipe Transaction,No,15379510
+Chip Transaction,Yes,4836
+Online Transaction,Yes,18349
+Swipe Transaction,Yes,6572
